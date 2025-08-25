@@ -2,7 +2,7 @@ docker compose run --rm rails bundle exec rails db:chatwoot_prepare
 
 docker compose up -d
 
-http://localhost:41200
+http://localhost:3410
 
 
 
